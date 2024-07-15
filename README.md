@@ -37,7 +37,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 1. **Clonar el repositorio:**
 
    \`\`\`bash
-   git clone [https://github.com/usuario/alura-flix.git](https://github.com/Migthynice-UCM/AluraFlix_Joaqu-n_Cancino_Torres.git)
+   git clone https://github.com/Migthynice-UCM/AluraFlix_Joaqu-n_Cancino_Torres.git
    \`\`\`
 2. **Navegar al directorio del proyecto:**
 
